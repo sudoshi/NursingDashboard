@@ -1,6 +1,6 @@
 # NursingDashboard
 
-A comprehensive data visualization framwork for ADT, ORM, ORV, and other key HL7 messages for a sophisticated nursing operations dashboard designed to optimize patient flow.
+A comprehensive data visualization framework for ADT, ORM, ORV, and other key HL7 messages for a sophisticated nursing operations dashboard designed to optimize patient flow.
 
 ---
 
